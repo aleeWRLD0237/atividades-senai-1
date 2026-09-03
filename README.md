@@ -1,2 +1,2 @@
 # atividades-senai-1
-lista de exercícios 
+lista de exercicios
